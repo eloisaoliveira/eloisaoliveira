@@ -13,6 +13,12 @@
   <img align="center" alt="Elo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Elo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Elo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" height="150em" alt="Elo-Gif" src="https://media.discordapp.net/attachments/613924081535811584/870502257093926932/Webp.net-gifmaker.gif">
+ </div>
+
+  ##
+ 
+<div>
  
  ![Snake animation](https://github.com/EloisaOliveira/EloisaOliveira/blob/output/github-contribution-grid-snake.svg)
 </div>
