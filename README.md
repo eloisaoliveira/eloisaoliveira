@@ -9,6 +9,7 @@ const WhoAmI = {
   pronouns: "she" | "her",
   user: "Eloisa de Oliveira",
   current_edu: [
+    "Trybe",
     "Rocketseat",
     "FatecPG"],
   techCommunities: "Orange Juice",
