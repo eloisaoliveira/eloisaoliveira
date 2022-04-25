@@ -1,7 +1,8 @@
 ## Who am I ?
+<img width="275" align="right" src="https://media.discordapp.net/attachments/613924081535811584/870502257093926932/Webp.net-gifmaker.gif">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=EloisaOliveira&color=blue" alt="Profile views" /></p>
 
-<img width="250" align="right" src="https://media.discordapp.net/attachments/613924081535811584/870502257093926932/Webp.net-gifmaker.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EloisaOliveira&color=blueviolet" alt="Profile views" /> </p>
+
 
 ```javascript
 
@@ -32,22 +33,14 @@ function Ambitions() {
 	} 
  ```
 
- <div>
+
+ ## Github Stats
   <a href="https://github.com/EloisaOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EloisaOLiveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaOLiveira&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EloisaOLiveira&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaOLiveira&layout=compact&langs_count=16&theme=gruvbox_light"/>
 
  ## Social Links
   <a href="https://www.linkedin.com/in/elooliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/e_oliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.codepen.io/eloisaoliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href = "mailto:eloisa.oliveirasantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
-<div>
- 
- ![Snake animation](https://github.com/EloisaOliveira/EloisaOliveira/blob/output/github-contribution-grid-snake.svg)
-</div>
-
- 
