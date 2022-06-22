@@ -1,5 +1,4 @@
 ## Who am I ?
-<img width="275" align="right" src="https://media.discordapp.net/attachments/613924081535811584/870502257093926932/Webp.net-gifmaker.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=EloisaOliveira&color=blue" alt="Profile views" /></p>
 
 
