@@ -34,9 +34,9 @@ function Ambitions() {
 
 
  ## Github Stats
-  <a href="https://github.com/EloisaOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EloisaOLiveira&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloisaOLiveira&layout=compact&langs_count=16&theme=gruvbox_light"/>
+  <a href="https://github.com/eloisaoliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloisaoLiveira&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloisaoLiveira&layout=compact&langs_count=16&theme=gruvbox_light"/>
 
  ## Social Links
   <a href="https://www.linkedin.com/in/elooliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
