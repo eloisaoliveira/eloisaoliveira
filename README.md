@@ -9,7 +9,13 @@ const WhoAmI = {
   pronouns: "she" | "her",
   user: "Eloisa de Oliveira",
   current_edu: ["Rocketseat"],
-  techCommunities: "Orange Juice",
+  techCommunities: [
+	"Orange Juice",
+	"Thasfin",
+	"WTM Santos",
+	"NodeBR",
+	"Elas por Elas",
+  ],
   hobbies: [
    "Studying",
    "Watching Anime, Series and Films",
